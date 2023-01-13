@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 
 Current Projects:
 
-[Cmathlib](https://github.com/CaidynPaul/cmathlib.git) [Music.py](https://github.com/CaidynPaul/music.py.git)
+[Cmathlib](https://github.com/CaidynPaul/cmathlib.git) || [Music.py](https://github.com/CaidynPaul/music.py.git)
