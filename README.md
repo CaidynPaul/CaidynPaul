@@ -1,6 +1,6 @@
-Hello There
-
-*voice in the darkness* General Kenobi
+Destiny 2 Nerd
+Maths Nerd
+CS Nerd
 
 Current Projects:
 
