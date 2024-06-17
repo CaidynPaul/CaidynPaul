@@ -1,6 +1,6 @@
-Destiny 2 Nerd
-Maths Nerd
-CS Nerd
+Destiny 2 Nerd,
+Maths Nerd,
+CS Nerd.
 
 Current Projects:
 
